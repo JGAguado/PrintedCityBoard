@@ -23,10 +23,10 @@ This is Printed City Board, a beautiful electronic board.
 
 
 
-[releases-shield]: https://img.shields.io/github/release/JGAguado/Domotics.svg?style=for-the-badge
-[releases]: https://github.com/JGAguado/Fuel_Tracker/releases
+[releases-shield]: https://img.shields.io/github/release/JGAguado/PrintedCityBoard.svg?style=for-the-badge
+[releases]: https://github.com/JGAguado/PrintedCityBoard/releases
 
-[license-shield]: https://img.shields.io/github/license/JGAguado/Domotics.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/JGAguado/PrintedCityBoard.svg?style=for-the-badge
 
 [maintenance-shield]: https://img.shields.io/badge/maintainer-J.%20G.%20Aguado-blue.svg?style=for-the-badge
 [maintenance]: https://github.com/JGAguado
